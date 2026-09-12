@@ -28,9 +28,6 @@
 ![IBM i2](https://img.shields.io/badge/IBM%20i2%20Analyst's%20Notebook-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
 ![Orange](https://img.shields.io/badge/Orange%20Data%20Mining-F5792A?style=for-the-badge)
 
-## Currently learning
-
-SOC L1 workflows (alert triage, escalation), MITRE ATT&CK & the Cyber Kill Chain, and SIEM/EDR/IDS/DLP fundamentals with hands-on ELK practice via the INSECA "Introduction to Cybersecurity" course.
 
 ## Compliance & standards
 
