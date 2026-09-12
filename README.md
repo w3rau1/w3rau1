@@ -12,7 +12,7 @@ Information Security student (SOC, Networking) based in Rostov-on-Don, Russia �
 
 ## Education
 
-Southern Federal University (SFU), Taganrog — B.Sc. Information Security, 2023–2027 (expected)
+Southern Federal University (SFEDU), Taganrog — B.Sc. Information Security, 2023–2027 (expected)
 
 ## Contact
 
