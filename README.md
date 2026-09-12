@@ -30,7 +30,7 @@
 
 ## Currently learning
 
-Networking fundamentals (OSI/TCP-IP, DNS, DHCP, ARP, NAT, VLAN), Windows/Linux forensics artifacts (event IDs, logs, processes), SIEM/EDR/IDS/DLP basics, MITRE ATT&CK, and Russian information security regulations (152-FZ, 187-FZ, GOST 57580).
+SOC L1 workflows (alert triage, escalation), MITRE ATT&CK & the Cyber Kill Chain, and SIEM/EDR/IDS/DLP fundamentals with hands-on ELK practice via the INSECA "Introduction to Cybersecurity" course.
 
 ## Compliance & standards
 
