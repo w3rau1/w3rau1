@@ -25,12 +25,16 @@
 
 ## Data analysis & investigation tools
 
-![IBMi2](https://img.shields.io/badge/IBM%20i2%20Analyst's%20Notebook-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+![IBM i2](https://img.shields.io/badge/IBM%20i2%20Analyst's%20Notebook-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
 ![Orange](https://img.shields.io/badge/Orange%20Data%20Mining-F5792A?style=for-the-badge)
+
+## Currently learning
+
+Networking fundamentals (OSI/TCP-IP, DNS, DHCP, ARP, NAT, VLAN), Windows/Linux forensics artifacts (event IDs, logs, processes), SIEM/EDR/IDS/DLP basics, MITRE ATT&CK, and Russian information security regulations (152-FZ, 187-FZ, GOST 57580).
 
 ## Compliance & standards
 
-Familiar with 115-FZ (AML/CFT), 152-FZ (perss, and GOST information security standards.
+Familiar with 115-FZ (AML/CFT), 152-FZ (personal data), FSTEC requirements, and GOST information security standards.
 
 ## Education
 
