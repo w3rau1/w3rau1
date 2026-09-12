@@ -1,16 +1,16 @@
-## Hi there 👋
+# Daniil Akimenko
 
-<!--
-**w3rau1/w3rau1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Security student (SOC, Networking) based in Rostov-on-Don, Russia — 4th-year student at Southern Federal University, "Information Security" program.
 
-Here are some ideas to get you started:
+## Currently building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Linux vulnerability scanner with an embedded local LLM** — a single-file Python tool designed to run on weak, offline machines. Plain code determines facts and severity; a small local model (via llama.cpp) only explains findings in plain language and prioritizes them. Alwaith or without the AI layer. Covers 10checks: open ports/services, SSH hardening, pending security updates, firewall status, root/sudo users, empty
+passwords, suspicious SUID files, world-writies, /etc/shadow permissions, and brute-force attempts in auth.log.
+
+## Skills
+
+- **Security:** Wireshark, Nmap, Kali Linux, SIEM basics
+- **Networking:** Cisco switch/router configacer), multiservice networks
+- **Systems:** Linux, Windows Server
+- **Development:** Python, C++, SQL, OpenCV,ge Pi)
+- **Analytics:** Excel, Power BI
